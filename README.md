@@ -8,7 +8,29 @@ learning about computer security and testing
 
 # Books
 
+Penetration Testing with Raspberry Pi  
+https://www.packtpub.com/networking-and-servers/penetration-testing-raspberry-pi  
 
+Understanding Network Hacks  
+http://www.springer.com/us/book/9783662444368  
+
+Raspberry Pi Networking Cookbook  
+https://www.packtpub.com/hardware-and-creative/raspberry-pi-networking-cookbook   
+
+Security Engineering, 2nd Ed  
+Ross Anderson  
+
+Black Hat Python  
+Python Programming for Hackers and Pentesters  
+http://shop.oreilly.com/product/9781593275907.do  
+
+Web Penetration Testing with Kali Linux  
+https://www.packtpub.com/networking-and-servers/web-penetration-testing-kali-linux  
+
+Understanding Network Hacks: Attack and Defense With Python  
+Bastian Ballmann  
+http://www.springer.com/us/book/9783662444368  
+  
 # Reference Sites
 
 
